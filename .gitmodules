@@ -1,3 +1,7 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
-	url = git@github.com:mercy-dapps/whitelist-tranfer-hook.git
+	url = git@github.com:mercy-dapps/whitelist-transfer-hook.git
+
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = git@github.com:mercy-dapps/magicblock-randomness.git

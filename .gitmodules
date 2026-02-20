@@ -7,5 +7,5 @@
 	url = git@github.com:mercy-dapps/magicblock-randomness.git
 
 [submodule "accel-1-challenge"]
-	path = magicblock-er-example
-	url = git@github.com:mercy-dapps/accel-challenge-1.git
+	path = accel-1-challenge
+	url = https://github.com/mercy-dapps/accel-challenge-1.git

@@ -13,3 +13,7 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = git@github.com:mercy-dapps/escrow-litesvm.git
+
+[submodule "escrow_with_tuktuk"]
+	path = escrow_with_tuktuk
+	url = git@github.com:mercy-dapps/escrow_with_tuktuk.git

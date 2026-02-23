@@ -16,4 +16,4 @@
 
 [submodule "escrow_with_tuktuk"]
 	path = escrow_with_tuktuk
-	url = git@github.com:mercy-dapps/escrow_with_tuktuk.git
+	url = https://github.com/mercy-dapps/escrow-with-tuktuk.git

@@ -9,3 +9,7 @@
 [submodule "accel-1-challenge"]
 	path = accel-1-challenge
 	url = https://github.com/mercy-dapps/accel-challenge-1.git
+
+[submodule "escrow-litesvm"]
+	path = escrow-litesvm
+	url = https://github.com/mercy-dapps/escrow-litesvm.git

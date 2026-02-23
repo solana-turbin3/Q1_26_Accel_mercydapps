@@ -12,4 +12,4 @@
 
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
-	url = https://github.com/mercy-dapps/escrow-litesvm.git
+	url = git@github.com:mercy-dapps/escrow-litesvm.git

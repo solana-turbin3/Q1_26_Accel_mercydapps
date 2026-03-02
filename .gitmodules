@@ -17,3 +17,7 @@
 [submodule "escrow_with_tuktuk"]
 	path = escrow_with_tuktuk
 	url = https://github.com/mercy-dapps/escrow-with-tuktuk.git
+
+[submodule "accel-pinocchio-escrow"]
+	path = accel-pinocchio-escrow
+	url = git@github.com:mercy-dapps/accel-pinocchio-escrow.git
